@@ -1,4 +1,4 @@
 # Project 
 <br>
-This Repo has all the Projects i did will learning different language.
-All project are arrannged according to diiferent language for proper organisation.
+This Repo has all the Projects I did will learning different language.
+All project are arranged according to different language for proper organisation.
